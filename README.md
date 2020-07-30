@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/jVirus/count.svg)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&hide=contribs&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&layout=compact&theme=dark)
 
