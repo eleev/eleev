@@ -1,13 +1,8 @@
 ### Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/jVirus/count.svg)
-
-<a vref="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&hide=contribs&theme=dark" />
-</a>
-<a vref="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&layout=compact&theme=dark" />
-</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&hide=contribs&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&layout=compact&theme=dark)
 
 <!--
 **jVirus/jVirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
