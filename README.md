@@ -2,14 +2,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/jVirus/count.svg)
 
-<a href="https://profile-counter.glitch.me/jVirus/count.svg">
-  <img align="center" src="https://profile-counter.glitch.me/jVirus/count.svg" />
-</a>
 <a vref="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&hide=contribs&theme=dark" />
 </a>
 <a vref="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&layout=compact&theme=dark" />
 </a>
 
 <!--
