@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/jVirus/count.svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&hide=contribs&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&layout=compact&theme=dark)
 
 <!--
