@@ -3,7 +3,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/jVirus/count.svg)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&layout=compact&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&count_private=true&layout=compact&theme=dark)
 
 <img align="left" alt="iOS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="macOS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
