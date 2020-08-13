@@ -16,6 +16,8 @@
 <img align="left" alt="Objective-C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
 <img align="left" alt="CocoaTouch" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/cocoatouch.png?raw=true" />
 <img align="left" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
+<img align="left" alt="CoreData" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coredata.png?raw=true" />
+<img align="left" alt="CoreAudio" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreaudio.png?raw=true" />
 <img align="left" alt="CoreAnimation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreanimation.png?raw=true" />
 <img align="left" alt="AVFoundation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/avfoundation.png?raw=true" />
 <img align="left" alt="Metal" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/metal.png?raw=true" />
