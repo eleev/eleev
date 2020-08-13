@@ -7,12 +7,24 @@
 
 <img align="left" alt="iOS" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="macOS" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
+<img align="left" alt="watchOS" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/watchos1.jpeg?raw=true" />
 <img align="left" alt="Xcode" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<img align="left" alt="Instruments" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/instruments.png?raw=true" />
 <img align="left" alt="Swift" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Objective-C" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
+<img align="left" alt="CocoaTouch" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/cocoatouch.png?raw=true" />
+<img align="left" alt="SwiftUI" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
+<img align="left" alt="CoreAnimation" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreanimation.png?raw=true" />
+<img align="left" alt="AVFoundation" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/avfoundation.png?raw=true" />
+<img align="left" alt="SpriteKit" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/spritekit.png?raw=true" />
+<img align="left" alt="SceneKit" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/scenekit.png?raw=true" />
+<img align="left" alt="Metal" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/metal.png?raw=true" />
+<img align="left" alt="CoreML" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreml.png?raw=true" />
+<img align="left" alt="CreateML" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/createm2.png?raw=true" />
+<img align="left" alt="ARKit" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/arkit.png?raw=true" />
+<img align="left" alt="RealityKit" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/realitykit.png?raw=true" />
 <img align="left" alt="Java" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-<img align="left" alt="C" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
+<img align="left" alt="OpenGL" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
 <img align="left" alt="Sketch" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png" />
 <img align="left" alt="Firebase" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="AWS" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
