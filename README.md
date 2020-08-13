@@ -20,7 +20,7 @@
 <img align="left" alt="SceneKit" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/scenekit.png?raw=true" />
 <img align="left" alt="Metal" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/metal.png?raw=true" />
 <img align="left" alt="CoreML" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreml.png?raw=true" />
-<img align="left" alt="CreateML" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/createm2.png?raw=true" />
+<img align="left" alt="CreateML" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/createml2.png?raw=true" />
 <img align="left" alt="ARKit" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/arkit.png?raw=true" />
 <img align="left" alt="RealityKit" width="41px" src="https://github.com/jVirus/jVirus/blob/master/Assets/realitykit.png?raw=true" />
 <img align="left" alt="Java" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
