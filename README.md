@@ -18,13 +18,14 @@
 <img align="left" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
 <img align="left" alt="CoreAnimation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreanimation.png?raw=true" />
 <img align="left" alt="AVFoundation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/avfoundation.png?raw=true" />
+<img align="left" alt="Metal" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/metal.png?raw=true" />
 <img align="left" alt="SpriteKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/spritekit.png?raw=true" />
 <img align="left" alt="SceneKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/scenekit.png?raw=true" />
-<img align="left" alt="Metal" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/metal.png?raw=true" />
 <img align="left" alt="CoreML" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreml.png?raw=true" />
 <img align="left" alt="CreateML" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/createml2.png?raw=true" />
 <img align="left" alt="ARKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/arkit.png?raw=true" />
 <img align="left" alt="RealityKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/realitykit.png?raw=true" />
+<img align="left" alt="WidgetKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/widgetkit.png?raw=true" />
 <img align="left" alt="Java" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="OpenGL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
 <img align="left" alt="Sketch" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png" />
