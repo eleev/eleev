@@ -22,6 +22,9 @@
 <img align="left" alt="Metal" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/metal.png?raw=true" />
 <img align="left" alt="SpriteKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/spritekit.png?raw=true" />
 <img align="left" alt="SceneKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/scenekit.png?raw=true" />
+<img align="left" alt="GameplayKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/gameplaykit.png?raw=true" />
+<img align="left" alt="ModelIO" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/modelio.png?raw=true" />
+<img align="left" alt="ReplayKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/replaykit.png?raw=true" />
 <img align="left" alt="CoreML" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreml.png?raw=true" />
 <img align="left" alt="CreateML" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/createml2.png?raw=true" />
 <img align="left" alt="ARKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/arkit.png?raw=true" />
