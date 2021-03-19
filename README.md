@@ -2,11 +2,17 @@
 
 <!-- [Visitor Count](https://profile-counter.glitch.me/jVirus/count.svg) -->
 
+<!--
 <h2 align="left">  <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"></h3>
+-->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=29&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&count_private=true&langs_count=8&custom_title=Languages&layout=compact&theme=buefy" />
+</a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&count_private=true&layout=compact&theme=dark)
 
 <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
