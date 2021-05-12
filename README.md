@@ -7,11 +7,15 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=29&theme=buefy" />
+  <img align="center" width="58%" src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=29&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&count_private=true&langs_count=8&custom_title=Languages&layout=compact&theme=buefy" />
+  <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&count_private=true&langs_count=8&custom_title=Languages&layout=compact&theme=buefy" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">  
+<img align="center" width="99.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jVirus" />
+</a>
+
 
 
 <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
