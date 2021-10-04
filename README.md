@@ -7,11 +7,11 @@
 -->
 
 <a href="https://github.com/jVirus">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=34&theme=onedark&hide_border=true" />
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&count_private=true&langs_count=8&custom_title=Languages&layout=compact&theme=onedark&hide_border=true" />
+  <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=36&theme=onedark&hide_border=true" />
+  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&count_private=true&langs_count=8&custom_title=Languages&layout=compact&theme=onedark&hide_border=true" />
 <p align="center">
   <a href="https://github.com/jVirus">  
-    <img align="center" width="58%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jVirus&theme=onedark&hide_border=true" />
+    <img align="left" width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jVirus&theme=onedark&hide_border=true" />
   </a>
 </p>
 
