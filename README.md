@@ -1,8 +1,8 @@
 
 <h2 align="center"> 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32.5%" > 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32.5%" > 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32.5%" > 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32.25%" > 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32.25%" > 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32.25%" > 
 </h2>
 
 <a href="https://github.com/jVirus">
