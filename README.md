@@ -20,10 +20,11 @@
          />
 </a>
 
+<!--   
 
 &nbsp;
 &nbsp;
-  
+
 ## Operating Systems  
 <img align="left" alt="iOS" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="macOS" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
@@ -82,3 +83,5 @@
 <img align="left" alt="SiriKit" height="36px" src="https://github.com/jVirus/jVirus/blob/main/Assets/sirikit.png?raw=true" />
 <img align="left" alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="AWS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+
+-->
