@@ -14,7 +14,7 @@
 <a href="https://github.com/jVirus">  
     <img 
          lign="left" 
-         width="52%" 
+         width="52.5%" 
          align="center" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=jVirus&theme=onedark&hide_border=true" 
          />
