@@ -1,12 +1,14 @@
 
-<!-- <h2 align="center"> 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32%" > 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32%" > 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="32%" > 
+<h2 align="center"> 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" > 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" > 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" >
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" >
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" >
 </h2>
- -->
+
  
-<a href="https://github.com/jVirus">
+<!-- <a href="https://github.com/jVirus">
     <img 
          align="center" 
          width="46%" 
@@ -19,7 +21,7 @@
          align="center" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=jVirus&theme=onedark&hide_border=true" 
          />
-</a>
+</a> -->
 
 <!--   
 
