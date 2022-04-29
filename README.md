@@ -1,10 +1,10 @@
 
 <h2 align="center"> 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" > 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" > 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" >
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" >
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="19%" >
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="18%" > 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="18%" > 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="18%" >
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="18%" >
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="18%" >
 </h2>
 
  
