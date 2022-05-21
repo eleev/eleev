@@ -1,29 +1,25 @@
-
-<!-- <h2 align="center"> 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="17%" > 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="17%" > 
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="17%" >
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="17%" >
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="17%" >
+<!-- 
+<h2 align="center"> 
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="100%" > 
 </h2>
  -->
  
-<!-- <a href="https://github.com/jVirus">
+<a href="https://github.com/jVirus">
     <img 
          align="center" 
-         width="46%" 
+         width="42%" 
          src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=36&theme=onedark&hide_border=true"   
          />
 <a href="https://github.com/jVirus">  
     <img 
          lign="left" 
-         width="52.5%" 
+         width="48%" 
          align="center" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=jVirus&theme=onedark&hide_border=true" 
          />
-</a> -->
+</a>
 
-<!--   
+  
 
 &nbsp;
 &nbsp;
@@ -87,4 +83,4 @@
 <img align="left" alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="AWS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
--->
+
