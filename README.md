@@ -6,18 +6,18 @@
 </h2>
  -->
  
-<a href="https://github.com/jVirus">
+<a href="https://github.com/eleev">
     <img 
          align="center" 
          width="42%" 
-         src="https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=36&theme=onedark&hide_border=true"   
+         src="https://github-readme-stats.vercel.app/api?username=eleev&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=36&theme=onedark&hide_border=true"   
          />
-<a href="https://github.com/jVirus">  
+<a href="https://github.com/eleev">  
     <img 
          lign="left" 
          width="48%" 
          align="center" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=jVirus&theme=onedark&hide_border=true" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=eleev&theme=onedark&hide_border=true" 
          />
 </a>
 
