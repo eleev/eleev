@@ -3,6 +3,10 @@
 :-------------------------:|:-------------------------:
 ![](https://leetcard.jacoblin.cool/eleev?theme=dark&font=Quando) | ![](https://github-readme-streak-stats.herokuapp.com/?user=eleev&theme=onedark&hide_border=true) |
 
+<div><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=eleev&count_private=true&show_icons=true&theme=dark" />
+</a></div>
+
 &nbsp;
 &nbsp;
 
