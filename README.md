@@ -1,4 +1,4 @@
-![eleev-github-contr-w](https://github.com/eleev/eleev/assets/5098753/38877691-0a22-45e9-96e7-65c3507b8217)
+![eleev-github-contr-w copy](https://github.com/eleev/eleev/assets/5098753/d6ad9e89-4b51-4bdb-97df-915f692a0d21)
 |  |  |  |
  :-------------------------:|:-------------------------:|:-------------------------:
  [![](https://github-readme-stats.vercel.app/api/pin/?username=eleev&repo=swift-design-patterns&theme=dark)](https://github.com/eleev/swift-design-patterns) | [![](https://github-readme-stats.vercel.app/api/pin/?username=eleev&repo=ios-spritekit-shader-sandbox&theme=dark)](https://github.com/eleev/ios-spritekit-shader-sandbox) | [![](https://github-readme-stats.vercel.app/api/pin/?username=eleev&repo=tic-tac-toe&theme=dark)](https://github.com/eleev/tic-tac-toe) |
