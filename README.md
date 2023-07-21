@@ -1,3 +1,16 @@
+## 𝗔𝘀𝘁𝗲𝗺𝗶𝗿 𝗘𝗹𝗲𝗲𝘃
+> **Software Engineer** since iOS 5 & OSX Snow Leopard
+
+- **Founter & CTO** @ Intera
+
+- **Building** the future of accessible interactiveness
+
+- **MSc Applied CS** @ Østfold University
+
+- **Open Source** enthusiast
+
+[#**Swift**]() [#**Metal**]() [#**Kotlin**]() [#**Python**]()
+
 |  |  |  
  :-------------------------:|:-------------------------:
  [![](https://github-readme-stats.vercel.app/api?username=eleev&hide_border=true&theme=dark&border_radius=20&height=200&width=300&include_all_commits=true&text_bold=true&custom_title=eleev&disable_animations=true&ring_color=FFA500)](https://github.com/eleev) | [![](https://leetcard.jacoblin.cool/eleev?height=200&width=500&theme=dark&animation=false&radius=20&border=0)](https://leetcode.com/eleev/)  | 
