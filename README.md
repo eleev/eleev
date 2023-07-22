@@ -1,13 +1,12 @@
-## 𝗔𝘀𝘁𝗲𝗺𝗶𝗿 𝗘𝗹𝗲𝗲𝘃
-> **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘀𝗶𝗻𝘀𝗲 𝗶𝗢𝗦 5 & 𝗢𝗦𝗫 𝗟𝗶𝗼𝗻**
+![github-header-image](https://github.com/eleev/eleev/assets/5098753/4d519de7-1835-4108-8954-40206dc3af5f)
 
-👾 **Founder & CTO** @ Intera
+- 👾 **Founder & CTO** @ Intera
 
-🏗️ **Building** the future of ***accessible interactiveness***
+- 🏗️ **Building** the future of ***accessible interactiveness***
 
-🎓 **MSc Applied CS** @ Østfold University
+- 🎓 **MSc Applied CS** @ Østfold University
 
-🐙 **Open Source** enthusiast
+- 🐙 **Open Source** enthusiast
 \
 \
 \
