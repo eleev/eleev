@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/eleev/eleev/assets/5098753/4d519de7-1835-4108-8954-40206dc3af5f)
+![github-header-image-3](https://github.com/eleev/eleev/assets/5098753/0bd89e9c-826b-4c08-8db2-bcef5d679a09)
 
 - 👾 **Founder & CTO** @ Intera
 
