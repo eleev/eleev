@@ -1,15 +1,15 @@
 ## 𝗔𝘀𝘁𝗲𝗺𝗶𝗿 𝗘𝗹𝗲𝗲𝘃
-> **Software Engineer** since iOS 5 & OSX Snow Leopard
+> **𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘀𝗶𝗻𝘀𝗲 𝗶𝗢𝗦 5 & 𝗢𝗦𝗫 𝗟𝗶𝗼𝗻**
 
 - **Founter & CTO** @ Intera
 
-- **Building** the future of accessible interactiveness
-
+- **Building** the future of ***accessible interactiveness***
+  
 - **MSc Applied CS** @ Østfold University
 
 - **Open Source** enthusiast
 
-[#**Swift**]() [#**Metal**]() [#**Kotlin**]() [#**Python**]()
+[#**𝐒𝐰𝐢𝐟𝐭**]() [#**Objective C**]() [#**Metal**]() [#**OpenGL**]() [#**Java**]() [#**Kotlin**]() [#**Python**]()
 
 |  |  |  
  :-------------------------:|:-------------------------:
