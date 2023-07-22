@@ -1,23 +1,23 @@
-# name: GitHub-Profile-3D-Contrib
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
 
-# on:
-#   schedule: # 03:00 JST == 18:00 UTC
-#     - cron: "0 18 * * *"
-#   workflow_dispatch:
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
-#     name: generate-github-profile-3d-contrib
-#     steps:
-#       - uses: actions/checkout@v2
-
-#       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-#           USERNAME: ${{ github.repository_owner }}
-
-#       - name: Auto commit
-#         uses: stefanzweifel/git-auto-commit-action@v4
-#         with:
-#           commit_message: profile image generated
+  env:
+    # a github token is required to fetch the contribution calendar from github API
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
