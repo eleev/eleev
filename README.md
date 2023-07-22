@@ -16,9 +16,9 @@
 --|--
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eleev/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eleev/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eleev/eleev/output/github-contribution-grid-snake.svg">
 </picture>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=eleev&repo=swift-design-patterns&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/eleev/swift-design-patterns) | [![](https://github-readme-stats.vercel.app/api/pin/?username=eleev&repo=swift-algorithms-data-structs&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/eleev/swift-algorithms-data-structs) 
