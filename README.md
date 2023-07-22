@@ -1,4 +1,4 @@
-![github-header](/Assets/github-header-image-3.png)
+![github-header](/Assets/github-header-image-4.png)
 
 - 👾 **Founder & CTO** @ Intera
 
