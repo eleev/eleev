@@ -2,7 +2,7 @@
 
 - 👾 **Founder & CTO** @ Intera
 
-- 🏗️ **Building** the future of ***accessible interactiveness***
+- 🏗️ **Developing** the future of ***accessible interactiveness***
 
 - 🎓 **MSc Applied CS** @ Østfold University
 
