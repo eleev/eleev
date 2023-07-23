@@ -7,6 +7,8 @@
 - 🎓 **MSc Applied CS** @ Østfold University
 
 - 🐙 **Open Source** enthusiast
+
+- 🌚 **Irritate others** with the incessant clicking of ***500 CPM blue switches***
 \
 \
 [#**Swift**]() [#**Objective-C**]() [#**Metal**]() [#**OpenGL**]() [#**Java**]() [#**Kotlin**]() [#**Python**]()
