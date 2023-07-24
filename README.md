@@ -8,7 +8,7 @@
 
 - 🐙 **Open Source** enthusiast
 
-- 🌚 **Irritate others** with the incessant clicking of ***500 CPM blue switches***
+- 🌚 **Irritate others** with the incessant **500 CPM** clicking of ***blue switches***
 \
 \
 [#**Swift**]() [#**Objective-C**]() [#**Metal**]() [#**OpenGL**]() [#**Java**]() [#**Kotlin**]() [#**Python**]()
