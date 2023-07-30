@@ -1,6 +1,6 @@
 ![github-header](/Assets/github-header-image-13.png)
 
-- 👾 **Founder & CTO** @ Intera
+- 👾 **Founder** @ Intera
 
 - 🏗️ **Developing** the future of ***interactivity***
 
