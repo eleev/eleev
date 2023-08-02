@@ -1,4 +1,4 @@
-![github-header](/Assets/github-header-image-13.png)
+![github-header](/Assets/se1.png)
 
 - 👾 **Founder** @ Intera
 
