@@ -7,7 +7,6 @@
 - 🎓 **MSc Applied CS** @ Østfold University
 
 - 🐙 **Open Source** enthusiast
-\
 
 <p float="left">
 <picture>
