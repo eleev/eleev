@@ -8,6 +8,7 @@
 
 - 🐙 **Open Source** enthusiast
 
+<!-- 
 <p float="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eleev/eleev/output/github-contribution-grid-snake-dark.svg">
@@ -18,6 +19,7 @@
   <img alt="github contribution grid snake animation" src="https://leetcard.jacoblin.cool/eleev?width=500&height=194&theme=nord&animation=false&border=0&radius=20" width="34%">
 </picture>
 </p>
+ -->
 
 \
 [#**Swift**]() [#**Objective-C**]() [#**Metal**]() [#**OpenGL**]() [#**Java**]() [#**Kotlin**]() [#**Python**]()
