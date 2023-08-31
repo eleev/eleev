@@ -13,6 +13,8 @@
 
 - 🐙 **Open Source** enthusiast
 
+- 🌚 **Mechanical** keyboards
+
 <!-- 
 <p float="left">
 <picture>
