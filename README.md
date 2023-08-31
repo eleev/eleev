@@ -1,6 +1,6 @@
 ![github-header](/Assets/se1.png)
 <div>
-    <img align="right" src="https://leetcard.jacoblin.cool/eleev?width=500&height=194&theme=nord&animation=false&border=0&radius=20" width="36%"/>  
+    <img align="right" src="https://leetcard.jacoblin.cool/eleev?width=500&height=194&theme=nord&animation=false&border=0&radius=20" width="38%"/>  
 </div>
   
 - 👾 **Founder** @ Intera
