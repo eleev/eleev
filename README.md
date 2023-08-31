@@ -1,5 +1,8 @@
 ![github-header](/Assets/se1.png)
-
+<div>
+    <img align="right" src="https://leetcard.jacoblin.cool/eleev?width=500&height=194&theme=nord&animation=false&border=0&radius=20" width="36%"/>  
+</div>
+  
 - 👾 **Founder** @ Intera
 
 - 🏗️ **Developing** the future of ***interactivity***
