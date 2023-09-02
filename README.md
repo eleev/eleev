@@ -31,14 +31,13 @@
  -->
 
 \
-![Swift](https://img.shields.io/badge/Swift-013243?style=flat-square&logo=Swift)
-![Objective-C](https://img.shields.io/badge/Objective_C-013243?style=flat-square&logo=Objective)
-![Metal](https://img.shields.io/badge/Metal-013243?style=flat-square&logo=Metal)
-![OpenGL](https://img.shields.io/badge/OpenGL-013243?style=flat-square&logo=OpenGL)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java)
-![Kotlin](https://img.shields.io/badge/Kotlin-013243?style=flat-square&logo=Kotlin)
-![Python](https://img.shields.io/badge/Python-013243?style=flat-square&logo=Python)
-
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-rounded&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-rounded&logo=apple&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-800080?style=flat-rounded&logo=apple&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-rounded&logo=opengl)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-rounded&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-rounded&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
 
 <!---
 <br>
