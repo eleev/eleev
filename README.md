@@ -16,7 +16,7 @@
 
 - 🌚 **Mechanical** keyboards
 
-- 🥋 **White belt** mentality
+- 🥋 **White Belt** mentality
 
 <!-- 
 <p float="left">
