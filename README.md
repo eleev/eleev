@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=620&size=24&duration=4250&pause=750&color=80CE87&width=750&lines=Hi+there!+I'm+Astemir;%EF%A3%BF+Software+Engineer;Founded+an+amazing+company;I've+crossed+the+Earth+a+number+of+times;Currently+pushing+the+boundaries+of+visual+data+models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=620&size=23&duration=4250&pause=750&color=80CE87&width=750&lines=Hi+there!+I'm+Astemir;%EF%A3%BF+Software+Engineer;Founded+an+amazing+company;I've+crossed+the+Earth+a+number+of+times;Currently+pushing+the+boundaries+of+visual+data+models)](https://git.io/typing-svg)
 <!--![github-header](/Assets/se1.png) -->
 <!--
 <div>
