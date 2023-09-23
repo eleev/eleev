@@ -1,21 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=620&size=23&duration=4250&pause=750&color=80CE87&width=750&lines=Hi+there!+I'm+Astemir;%EF%A3%BF+Software+Engineer;Founded+an+amazing+company;Currently+pushing+the+boundaries+of+visual+data+models;)](https://git.io/typing-svg)
-<!--![github-header](/Assets/se1.png) -->
-<!--
-<div>
-    <img align="right" src="https://leetcard.jacoblin.cool/eleev?width=500&height=194&theme=nord&animation=false&border=0&radius=20" width="40%"/>  
-</div>
--->
-- 👾 **Founder** @ Intera
+## Hi there! I'm Astemir.
 
-- 🏗️ **Developing** the future of ***interactivity***
-
-- 🎓 **MSc Applied CS** @ Østfold University
-
-- 🐙 **Open Source** enthusiast
-
-- 🌚 **Mechanical** keyboards
-
-- 🥋 **White Belt** mentality
+> - 💻 Software Engineer
+>
+> - 👾 **Founder** @ Intera
+>
+> - 🏗️ **Developing** the future of ***interactivity***
+>
+> - 🎓 **MSc Applied CS** @ Østfold University
+>
+> - 🐙 **Open Source** enthusiast
 
 <!-- 
 <p float="left">
