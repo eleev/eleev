@@ -1,6 +1,6 @@
 ## Hi there! I'm Astemir.
 
-> - 💻 Software Engineer
+> - 💻 **Software Engineer**
 >
 > - 👾 **Founder** @ Intera
 >
