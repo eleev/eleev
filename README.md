@@ -1,4 +1,7 @@
-## Hi there! I'm Astemir.
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/eleev)
+[![X Badge](https://img.shields.io/badge/Twitter-011?logo=x&logoColor=fff&style=flat)](https://twitter.com/eleevdev)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat)](https://leetcode.com/eleev)
+# Hi there! I'm Astemir.
 
 > - 💻 **Software Engineer**
 >
@@ -22,7 +25,6 @@
 </picture>
 </p>
  -->
-
 \
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-rounded&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-rounded&logo=apple&logoColor=white)
