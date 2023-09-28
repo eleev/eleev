@@ -31,9 +31,10 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-rounded&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-rounded&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
-
+\
 [![LeetCode user eleev](https://img.shields.io/badge/dynamic/json?style=flat-rounded&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Feleev&logo=leetcode&logoColor=yellow)](https://leetcode.com/eleev/)
-[![LeetCode user eleev](https://img.shields.io/badge/dynamic/json?style=flat-rounded&labelColor=black&color=magenta&label=Rank&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Feleev&logo=leetcode&logoColor=yellow)](https://leetcode.com/eleev/)
+[![LeetCode user eleev](https://img.shields.io/badge/dynamic/json?style=flat-rounded&labelColor=black&color=red&label=Rank&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Feleev&logo=leetcode&logoColor=yellow)](https://leetcode.com/eleev/)
+
 <!---
 <br>
 
