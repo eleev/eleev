@@ -1,6 +1,6 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/eleev)
 [![X Badge](https://img.shields.io/badge/Twitter-011?logo=x&logoColor=fff&style=flat)](https://twitter.com/eleevdev)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat)](https://leetcode.com/eleev)
+[![LeetCode user eleev](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=1111&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Feleev&logo=leetcode&logoColor=yellow)](https://leetcode.com/eleev/)
 # Hi there! I'm Astemir.
 
 > - 💻 **Software Engineer**
@@ -33,9 +33,6 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-rounded&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-rounded&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
-\
-[![LeetCode user eleev](https://img.shields.io/badge/dynamic/json?style=flat-rounded&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Feleev&logo=leetcode&logoColor=yellow)](https://leetcode.com/eleev/)
-[![LeetCode user eleev](https://img.shields.io/badge/dynamic/json?style=flat-rounded&labelColor=black&color=red&label=Rank&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Feleev&logo=leetcode&logoColor=yellow)](https://leetcode.com/eleev/)
 
 <!---
 <br>
