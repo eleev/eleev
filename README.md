@@ -1,5 +1,5 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-rounded)](https://t.me/eleev)
-[![X Badge](https://img.shields.io/badge/Twitter-011?logo=x&logoColor=fff&style=flat-rounded)](https://twitter.com/eleevdev)
+[![X Badge](https://img.shields.io/badge/Twitter-011?logo=twitter&logoColor=fff&style=flat-rounded)](https://twitter.com/eleevdev)
 [![LeetCode user eleev](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=282828&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Feleev&logo=leetcode&logoColor=yellow&style=flat-rounded)](https://leetcode.com/eleev/)
 # Hi there! I'm Astemir.
 
