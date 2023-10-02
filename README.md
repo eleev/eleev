@@ -2,7 +2,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-rounded)](https://t.me/eleev)
 [![X Badge](https://img.shields.io/badge/Twitter-011?logo=twitter&logoColor=fff&style=flat-rounded)](https://twitter.com/eleevdev)
 
-# Hi there! I'm Astemir.
+## Hi there! I'm Astemir.
 
 > - 💻 **Software Engineer**
 >
