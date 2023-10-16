@@ -4,16 +4,17 @@
 
 ## Hi there! I'm Astemir.
 
-> - 💻 **Software Engineer**
->
-> - 👾 **Founder** @ Intera
->
-> - 🏗️ **Developing** the future of ***interactivity***
->
-> - 🎓 **MSc Applied CS** @ Østfold University
->
-> - 🐙 **Open Source** enthusiast
+> - **Software Engineer**
+>  
+> - **Founder** @ Intera
+>   
+> - **Developing** the future of ***interactivity***
+>   
+> - **MSc Applied CS** @ Østfold University
+>   
+> - **Open Source** enthusiast
 
+<!--
 \
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-rounded&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-rounded&logo=apple&logoColor=white)
@@ -22,3 +23,4 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-rounded&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-rounded&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
+-->
