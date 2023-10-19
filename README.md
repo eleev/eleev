@@ -2,7 +2,7 @@
 [![X Badge](https://img.shields.io/badge/Twitter-222?logo=twitter&logoColor=fff&style=flat-rounded)](https://twitter.com/eleevdev)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-rounded)](https://t.me/eleev)
 
-# Astemir Eleev.
+# Astemir Eleev
 
 >  **Software Engineer**
 >  
