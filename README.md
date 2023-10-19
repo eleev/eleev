@@ -6,7 +6,7 @@
 
 >  **Software Engineer**
 >  
-> ⦃ **Founder** @ Intera
+> ≋ **Founder** @ Intera
 >   
 > ⨳ **Developing** the future of ***interactivity***
 >   
