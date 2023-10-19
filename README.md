@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-rounded)](https://t.me/eleev)
 
 # Astemir Eleev
-> 50 68 69 6C 69 70 70 69 61 6E 73 4:13
+> 50 68 69 6C 69 70 70 69 61 6E 73 34 3A 31 33
 
 -  **Software Engineer**
   
