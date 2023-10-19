@@ -6,9 +6,9 @@
 
 >  **Software Engineer**
 >  
-> ☣ **Founder** @ Intera
+> ⦃ **Founder** @ Intera
 >   
-> ♨ **Developing** the future of ***interactivity***
+> ⨳ **Developing** the future of ***interactivity***
 >   
 > ✎ **MSc Applied CS** @ Østfold University
 >   
