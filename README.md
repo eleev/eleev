@@ -5,15 +5,15 @@
 
 ## Astemir Eleev
 
--  **Software Engineer**
+- **Software Engineer**
   
-- ≋ **Founder** @ Intera
+- **Founder** @ Intera
    
-- ⨳ **Developing** the future of ***interactivity***
+- **Developing** the future of ***interactivity***
    
-- ✎ **MSc Applied CS** @ Østfold University
+- **MSc Applied CS** @ Østfold University
    
-- ⌘ **Open Source** enthusiast
+- **Open Source** enthusiast
 
 <!--
 \
