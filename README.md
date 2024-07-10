@@ -20,4 +20,3 @@
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-rounded&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
-
