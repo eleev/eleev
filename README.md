@@ -1,5 +1,5 @@
 > ###### **50 68 69 6C 69 70 70 69 61 6E 73 20 34 3A 31 33**
-[![LeetCode](https://badges.peiyuan.ch/leetcode/eleev/solved?logo=leetcode&label=LeetCode&style=flat-rounded&color=magenta)](https://leetcode.com/eleev/)
+[![LeetCode](https://badges.peiyuan.ch/leetcode/eleev/solved?logo=leetcode&label=LeetCode&style=flat-rounded&color=red)](https://leetcode.com/eleev/)
 [![X Badge](https://img.shields.io/badge/X-222?logo=x&logoColor=fff&style=flat-rounded)](https://x.com/eleevdev)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-27A5E4?logo=telegram&logoColor=fff&style=flat-rounded)](https://t.me/eleev)
 
