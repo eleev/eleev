@@ -9,6 +9,7 @@
 - Open Source
 - WWDC17
 
+<!---
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-rounded&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-rounded&logo=apple&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-800080?style=flat-rounded&logo=apple&logoColor=white)
@@ -17,3 +18,4 @@
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-rounded&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-rounded&logo=python&logoColor=ffdd54)
+-->
